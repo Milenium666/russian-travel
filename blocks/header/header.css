@@ -1,6 +1,6 @@
 .header {
     border: 1px solid red;
-    margin: 28px 48px 0 48px;
+    margin: 28px 5% 0 5%;
     display: flex;
     justify-content: space-between;
 }
