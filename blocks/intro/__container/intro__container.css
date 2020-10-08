@@ -1,13 +1,14 @@
 .intro__container {
-    border: 1px solid red;
+   
     width: calc(100% - 148px - 442px);
-    margin: 114px 442px 92px 148px;
+    margin: 114px 0 92px 0;
+    transform: translate(148px);
 }
 @media screen and (max-width: 1279px) {
     .intro__container {
         width: calc(100% - 48px - 286px);
-        margin: 110px 286px 88px 48px;
-        
+        margin: 110px 0 88px 0;
+        transform: translate(48px);
         
     }
 }
@@ -16,6 +17,7 @@
     .intro__container {
         width: calc(100% - 24px * 2);
         margin: 110px auto 88px auto ;
+        transform: translate(0);
         
     }
 }
@@ -24,5 +26,6 @@
     .intro__container {
         width: calc(100% - 16px * 2);
         margin: 64px auto ;
+        transform: translate(0);
     }    
 }
