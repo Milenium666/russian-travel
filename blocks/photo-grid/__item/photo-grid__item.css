@@ -1,15 +1,4 @@
-@import url(../../../images/photo-grid-1.png);
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-
 .photo-grid__item {
+    object-fit: cover;
+    width: 100%;
 }
