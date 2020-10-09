@@ -12,11 +12,11 @@
        
     }
 }
-
 @media screen and (max-width: 767px) {
-    .place__discrption {
+    .place__discription {
+        padding: 0 16px;
         
-        line-height: 26px;
-        font-size: 16px; 
+       
     }
 }
+
