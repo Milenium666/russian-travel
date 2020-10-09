@@ -7,7 +7,7 @@
     text-align: center;
     max-width: 560px;
     margin-bottom: 32px;
-    z-index: 4;
+    z-index: 6;
 
 }
 @media screen and (max-width: 767px) {
