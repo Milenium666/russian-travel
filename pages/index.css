@@ -33,7 +33,7 @@
 @import url(../blocks/place/__link-underline/place__link-underline.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__discription/place__discription.css);
-@import url(../blocks/place/__discription/_paragraph/place__discrption_paragraph.css);
+@import url(../blocks/place/__discription/_paragraph/place__paragraph.css);
 /*блок cover*/
 @import url(../blocks/cover/cover.css);
 
