@@ -1,0 +1,24 @@
+.footer__links {
+    
+    font-weight: normal;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 18px;
+    font-size: 16px;
+    display: flex;
+   
+}
+
+@media screen and (max-width: 767px) {
+    .footer__links {
+        line-height: 24px;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 85%;
+    
+        
+    }
+}

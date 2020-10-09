@@ -6,4 +6,9 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
+    transition: .3s linear;
+
+}
+.place__link-underline:hover {
+    opacity: .3;
 }

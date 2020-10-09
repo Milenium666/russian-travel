@@ -7,4 +7,8 @@
     line-height: 12px;
     text-transform: uppercase;
     margin-bottom: 12px;
+    transition: .3s linear;
+}
+.place__link-grey:hover {
+    opacity: .3;
 }

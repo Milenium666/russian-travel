@@ -5,7 +5,7 @@
     height: calc(min(1184px, 100vw) * (740/1184));
     margin: 12px auto 92px auto;
     object-fit: cover;
-    background-image: url(../../../images/cover__image.png);
+    background-image: url(../../images/cover__image.png);
     background-size: 100%;
     position: relative;
     z-index: 2;

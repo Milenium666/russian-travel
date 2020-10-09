@@ -1,0 +1,14 @@
+.footer__copirigth {
+    
+    font-weight: normal;
+    line-height: 16px;
+    font-size: 14px;
+    margin: 0;
+}
+@media screen and (max-width: 767px) {
+    .footer__copirigth {
+        line-height: 14px;
+    font-size: 14px;
+     
+    }
+}
