@@ -1,0 +1,9 @@
+.place__discrption_paragraph {
+    margin: 0 0 24px;
+}
+@media screen and (max-width: 1279px) {
+    .place__discrption_paragraph:last-of-type {
+        margin: 0%;
+        
+    }
+}

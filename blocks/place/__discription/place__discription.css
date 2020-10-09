@@ -1,0 +1,12 @@
+.place__discription {
+    border: 1px solid red;
+    font-weight: normal;
+    line-height: 29px;
+    font-size: 18px;
+}
+@media screen and (max-width: 767px) {
+    .place__discrption {
+        margin: 32px 16px 48px 16px;
+        
+    }
+}

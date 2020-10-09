@@ -1,0 +1,5 @@
+.place__links {
+    border: 1px solid red;
+    align-self: end;
+    display: block;
+}

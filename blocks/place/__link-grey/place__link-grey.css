@@ -1,0 +1,10 @@
+.place__link-grey {
+    border: 1px solid red;
+    display: block;
+    color: #aaaaaa;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
