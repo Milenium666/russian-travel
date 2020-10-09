@@ -33,13 +33,15 @@
 @import url(../blocks/place/__link-underline/place__link-underline.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__discription/place__discription.css);
-
-
 @import url(../blocks/place/__discription/_paragraph/place__discrption_paragraph.css);
-@import url();
-@import url();
-@import url();
-@import url();
+/*блок cover*/
+@import url(../blocks/cover/cover.css);
+
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+
 @import url();
 @import url();
 @import url();

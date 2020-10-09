@@ -1,0 +1,29 @@
+.cover {
+    
+    height: 740px;
+    width: min(100%, 1184px);
+    height: calc(min(1184px, 100vw) * (740/1184));
+    margin: 12px auto 92px auto;
+    object-fit: cover;
+    background-image: url(../../../images/cover__image.png);
+    background-size: 100%;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+@media screen and (max-width: 1023px) {
+    .cover {
+       margin: 8px 0 88px 0;
+
+    }
+}
+@media screen and (max-width: 767px) {
+    .cover {
+       margin: 0 0 64px 0;
+
+    }
+}
