@@ -2,4 +2,10 @@
     border: 1px solid red;
     align-self: end;
     display: block;
+
+}
+@media screen and (max-width: 767px) {
+    .place__links {
+        display: none;
+    }
 }
