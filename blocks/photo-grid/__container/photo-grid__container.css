@@ -1,7 +1,5 @@
 .photo-grid__container {
- 
     list-style: none;
-    margin: 0;
     padding: 0;
     width: calc(100% - 48px * 2);
     margin: 92px auto;
