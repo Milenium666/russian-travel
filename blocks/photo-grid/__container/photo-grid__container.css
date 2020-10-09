@@ -16,7 +16,7 @@
 }
 @media screen and (max-width: 1023px) {
     .photo-grid__container {
-        width: calc(100% - 24px * 2); 
+        width: calc(100% - 24px * 2);
         margin: 88px auto;
        }
 

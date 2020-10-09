@@ -1,6 +1,6 @@
 .cover {
     
-    height: 740px;
+    
     width: min(100%, 1184px);
     height: calc(min(1184px, 100vw) * (740/1184));
     margin: 12px auto 92px auto;

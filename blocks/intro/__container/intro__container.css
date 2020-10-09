@@ -16,7 +16,7 @@
 @media screen and (max-width: 1023px) {
     .intro__container {
         width: calc(100% - 24px * 2);
-        margin: 110px auto 88px auto ;
+        margin: 110px auto 88px auto;
         transform: translate(0);
         
     }
@@ -25,7 +25,7 @@
 @media screen and (max-width: 767px) {
     .intro__container {
         width: calc(100% - 16px * 2);
-        margin: 64px auto ;
+        margin: 64px auto;
         transform: translate(0);
     }    
 }
