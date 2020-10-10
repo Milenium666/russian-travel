@@ -7,6 +7,8 @@
     line-height: 18px;
     font-size: 16px;
     display: flex;
+    
+   
    
 }
 
@@ -14,10 +16,12 @@
     .footer__links {
         line-height: 24px;
     font-size: 24px;
-    display: flex;
+    
     flex-direction: column;
-    justify-content: space-between;
-    height: 85%;
+    
+    
+    
+    
     
         
     }

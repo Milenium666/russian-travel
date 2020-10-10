@@ -8,6 +8,12 @@
 }
 .footer__link:hover {
     
-    opacity: .3;
+    opacity: 80%;
 
+}
+@media screen and (max-width: 767px) {
+    .footer__link {
+     margin-bottom: 32px;
+        display: block;
+    }
 }

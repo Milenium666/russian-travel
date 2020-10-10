@@ -5,7 +5,9 @@
 *В данной проектной работе я использовала такие технологии как: grid layout,flex.Так же стало больше относительных велечин а не6 фиксированных*
 
 *Ссылка на проект*
-*https://github.com/Milenium666/russian-travel*
+*https://milenium666.github.io/russian-travel/index.html*
+
+*https://milenium666.github.io/russian-travel/*
 
 
 

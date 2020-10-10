@@ -22,6 +22,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list/_bols/intro__list_bold.css);
 /*блок photo-grid*/
 @import url(../blocks/photo-grid/__container/photo-grid__container.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
@@ -33,7 +34,7 @@
 @import url(../blocks/place/__link-underline/place__link-underline.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__discription/place__discription.css);
-@import url(../blocks/place/__discription/_paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 /*блок cover*/
 @import url(../blocks/cover/cover.css);
 
@@ -42,7 +43,7 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 /*footer*/
 
-@import url(../blocks/footer/__container/footer_container.css);
+@import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(..//blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copirigth/footer__copirigth.css);
