@@ -8,7 +8,8 @@
 ## Технологический стек
 `HTML5`, `CSS`, `Flexbox`, `Grid Layout`, `БЭМ`, `Git`.<br>
 
-*[Ссылка на проект](https://milenium666.github.io/russian-travel/index.html)*
+## Посмотреть проект
+*[Тут](https://milenium666.github.io/russian-travel/index.html)*
 
 ## Проект закончен
 
